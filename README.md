@@ -1,4 +1,2 @@
 # nishantrepodemo
-this is my first repo
-
-Author - Nishant Pagare
+this is my first repo <br> Author - Nishant Pagare
